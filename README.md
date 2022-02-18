@@ -1,7 +1,8 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/hachikozjq/images/main/blog/202202182026573.png" alt="image-20220218202612530" style="zoom: 5%;" />
 
-<!--
-**hachikozjq/hachikozjq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hachikozjq&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+### 你好，世界！ 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
